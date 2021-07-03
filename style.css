@@ -1,0 +1,57 @@
+body{ 
+   
+   
+    align-items: center;
+    border: 2px;
+ }
+ .container{
+     background-color: hsl(0, 0%, 95%); 
+     margin: 0 10%;
+     border: 2px;
+ }
+ .Flexbox-container { 
+    display: flex;
+    padding: 200px 150px;
+    font-size: 15px; 
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    height:400px;
+    
+    
+ }
+ .Sedan{
+   background-color: hsl(31, 77%, 52%);
+   color: hsl(0, 0%, 100%, 0.75);
+   padding: 5%;
+   
+}
+ .Suvs{
+     background-color:hsl(184, 100%, 22%);
+     color: hsl(0, 0%, 100%, 0.75);
+     padding: 5%;
+}
+     
+ 
+ .Luxury{
+     background-color:hsl(179, 100%, 13%);
+     color: hsl(0, 0%, 100%, 0.75);
+     padding: 5%;
+}
+ 
+ .buttons{
+     background-color:hsl(0, 0%, 95%) ;
+     padding:0.5px;
+     margin: 50px 25px 10px 10px;
+     border: 1px solid hsl(0, 0, 95%);
+     border-radius: 20px;
+ }
+ .button1{
+     color:hsl(31, 77%, 52%); 
+ }
+ .button2{
+     color: hsl(184, 100%, 22%);
+ }
+ .button3{
+     color:hsl(179, 100%, 13%) ;
+ }
